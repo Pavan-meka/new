@@ -1,6 +1,6 @@
 [insta login](https://www.instagram.com/accounts/login/)
-## thor bhaii
-![thor adda](https://www.indiewire.com/wp-content/uploads/2019/05/avengers-endgame-thor-chris-hemsworth-1166899-1280x0.jpeg?resize=800,450)
+## RRR ready for the war
+![thor adda](https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/220px-RRR_Poster.jpg)
 ## unordered list
 - list1
 - list2
@@ -17,8 +17,11 @@ main
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada: 
+
+
 name|roll_no
 ----|----
 pavan|a8
+kumar|901
 
  
